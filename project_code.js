@@ -1,3 +1,10 @@
+// --------------------------------------------------------
+// Google Earth Engine
+// Licensed under The MIT License [see LICENSE for details]
+// Written by Punnawat Siripatthiti
+// --------------------------------------------------------
+
+
 var unburned = 
     /* color: #e4d801 */
     /* shown: false */
