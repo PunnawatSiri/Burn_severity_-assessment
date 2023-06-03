@@ -1,4 +1,7 @@
 # Burn severity assessment: A case study of the 2020 wildfire in Chiang Mai, Thailand
+[![MIT License](https://img.shields.io/badge/license-MIT-red.svg)](https://opensource.org/licenses/MIT) 
+[![Google Earth Engine](https://img.shields.io/badge/Google-Earth-Engine.svg)](https://code.earthengine.google.com/) 
+
 This repository is the summary of my final project in AG2413 Digital Image Processing and Applications at KTH, Sweden.
 
 Professor: prof. Yifang Ban and prof. Puzhao Zhang 
@@ -54,7 +57,7 @@ approximately identified from local news and MODIS’ hotspot.
 
 <img src="images/SWIR_images.png" height="300" />
 
-From the images above; Before the wildfire image (left) and after the wildfire image (right) in SWIR color composite ('B12','B8', 'B4')
+From the images above; Before the wildfire image (left) and after the wildfire image (right) in [SWIR color composite](https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/swir-rgb/) ('B12','B8', 'B4')
 
 The model is later tested it
 on testing set of data and confusion matrix will be used to assess the model accuracy. The test data set is based from SWIR composite image and BAI image. 
