@@ -1,6 +1,6 @@
 # Burn severity assessment: A case study of the 2020 wildfire in Chiang Mai, Thailand
 [![MIT License](https://img.shields.io/badge/license-MIT-red.svg)](https://opensource.org/licenses/MIT) 
-[![Google Earth Engine](https://img.shields.io/badge/Google-Earth-Engine.svg)](https://code.earthengine.google.com/) 
+[![Google Earth Engine](https://img.shields.io/badge/Made%20with-Google_Earth_Engine-blue)](https://code.earthengine.google.com/) 
 
 This repository is the summary of my final project in AG2413 Digital Image Processing and Applications at KTH, Sweden.
 
